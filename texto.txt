@@ -1,0 +1,4 @@
+ler txt
+decomponha na sequencia de caracteres ascii indivuduais nele contidos
+
+				seção recebe entrada lista de caracteres indesejados e, com eles, inclua no programa um filtro que remova da sequencia encontrada de caracteres todas as ocorrencias dos caracteres que constam dessa lista, use esse programa para fazer a eliminação de brancos, espaçadores tabulações, marcas de final de linha, final de arquivo, formatação, etc
